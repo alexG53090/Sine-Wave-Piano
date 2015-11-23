@@ -216,4 +216,3 @@
         createKeyboard(notesByKeyCode, 'keyboard');
     });
 })();
-
