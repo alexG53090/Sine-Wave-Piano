@@ -1,0 +1,30 @@
+{
+  "name": "sinewavepiano",
+  "version": "0.0.1",
+  "description": "A sound visualizer that you can play",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alexG53090/Sine-Wave-Piano.git"
+  },
+  "keywords": [
+    "piano",
+    "keyboard",
+    "music",
+    "sine",
+    "calculus"
+  ],
+  "author": "Alex Bennett <alexandergraybennett@gmail.com> (http://thedope.agency)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexG53090/Sine-Wave-Piano/issues"
+  },
+  "homepage": "https://github.com/alexG53090/Sine-Wave-Piano#readme",
+  "dependencies": {
+    "http-server": "^0.8.5",
+    "nodemon": "^1.8.1"
+  }
+}

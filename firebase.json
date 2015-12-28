@@ -1,0 +1,9 @@
+{
+  "firebase": "sine-wave-piano-mast",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
