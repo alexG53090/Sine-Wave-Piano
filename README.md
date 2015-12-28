@@ -1,12 +1,12 @@
-#web-audio-API
+### Play and See your Music! :musical_keyboard:
 ![aye](https://s3-us-west-2.amazonaws.com/agb539/sine_wave.png)
-##This app was built with 
+###This app was built with :wrench:
 ```
 The HTML5 Audio API:
 Check the technology out at:
 [https://developer.mozilla.org/en-US/docs/Web/API/AnalyserNode/getByteFrequencyData#Example]
 ```
-##To view on your machine
+##To view on your machine :rocket:
 ```
 To view on your machine:
 -Download the source
