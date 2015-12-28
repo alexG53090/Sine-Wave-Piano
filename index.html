@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Music Visualizn'</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+<style>
+</style>
+</head>
+<body>
+  <h1> Sine Wave Visualizer </h1>
+  <div class="wrapper">
+    <canvas class="visualizer"></canvas>
+        <select id="visual" name="visual">
+          <option value="sinewave"></option>
+        </select>
+      </div>
+  </div>
+<!-- PIANO -->
+<!-- Waveform selector -->
+	<!--	<label for="soundType">Select a waveform:</label> -->
+		<select name="soundType" id="soundType">
+				<option value="triangle" selected>Triangle</option>
+				<option value="sine">Sine</option>
+				<option value="square">Square</option>
+				<option value="sawtooth">Sawtooth</option>
+		</select>
+<!-- Keyboard placeholder -->
+<div id="keyboard">
+</div>
+  <!-- Text -->
+    <script src="app.js"></script>
+</body>
+</html>
+
