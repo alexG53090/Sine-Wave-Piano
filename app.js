@@ -86,11 +86,7 @@
         draw();
     }
 
-
-
 ///// Piano JS
-
-
 (function() {
     // Create audio (context) container
     var audioCtx = new (AudioContext || webkitAudioContext)();
