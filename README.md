@@ -1,5 +1,5 @@
 #web-audio-API
-
+![aye](https://s3-us-west-2.amazonaws.com/agb539/sine_wave.png)
 ##This app was built with 
 ```
 The HTML5 Audio API:
