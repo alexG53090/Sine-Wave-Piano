@@ -2,9 +2,10 @@
 ![aye](https://s3-us-west-2.amazonaws.com/agb539/sine_wave.png)
 ###This app was built with :wrench:
 ```
-The HTML5 Audio API:
+- The HTML5 Audio API:
 Check the technology out at:
 [https://developer.mozilla.org/en-US/docs/Web/API/AnalyserNode/getByteFrequencyData#Example]
+- HTML 5 Canvas
 ```
 ##To view on your machine :rocket:
 ```
@@ -15,4 +16,7 @@ To view on your machine:
 ```
 *Iterested* in the HTML5 audio API?
 *Fork this repo!*
+
+> Alex Bennett 
+
 > MIT license
